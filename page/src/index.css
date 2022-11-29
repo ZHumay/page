@@ -1,0 +1,190 @@
+body{
+  background-image: url(https://www.conference-news.co.uk/sites/default/files/2020-03/conference-stock-image.jpg);
+background-repeat: no-repeat;}
+
+  .headerlogo{
+    display: flex;
+    flex-direction: row;
+
+justify-content: space-between;
+width:120px;
+margin-left: 150px;
+
+
+  }
+  .header{
+    background-color: rgb(19, 19, 117);
+    height: 200px;
+    margin-left: -10px;
+    margin-right: -10px;
+  
+  }
+  .headerlogo{
+    margin-left: 320px;
+    margin-top: -10px;
+    padding-top: 40px;
+  }
+  .fa-facebook{
+    color: beige;
+    width: 90px;
+    font-size: 30px;
+  }
+  .fa-square-twitter{
+  
+    width: 90px;
+    font-size: 30px;
+    color: beige;
+  }
+  .fa-pinterest{
+    color: beige;
+    width: 90px;
+    font-size: 30px;
+  }
+  .fa-location-dot{
+    color: rgb(187, 98, 25);
+    width: 40px;
+    font-size: 40px;
+    margin-left: 200px;
+  }
+  .fa-clock{
+    color: rgb(187, 98, 25);
+    width: 40px;
+    font-size: 40px;
+    margin-left: 200px;
+  }
+  .headerlogo2{
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-left: 360px;
+  }
+ .loc{
+  font-size: 13px;
+  color: white;
+  margin-left: 40px;
+  width: 120px;
+  margin-top: -40px;
+ }
+ .clock{
+  font-size: 14px;
+  color: white;
+  margin-left: 48px;
+  width: 140px;
+  margin-top: -40px;
+ }
+ .fa-envelope{
+  color: rgb(187, 98, 25);
+  width: 40px;
+  font-size: 40px;
+  margin-left: 200px;
+ }
+ .email{
+  font-size: 14px;
+  color: white;
+  margin-left: 48px;
+  width: 140px;
+  margin-top: -40px;
+ }
+ .aghisse{
+  background-color: white;
+  width: 75%;
+  height: 130px;
+  margin-left: 490px;}
+  ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 450px;
+  height: 1px;
+  list-style: none;
+  font-size: 21px;
+  font-weight: bold;
+  margin-left: 190px;
+  padding-top: 50px;
+
+ }
+ li:hover{
+  color: rgb(204, 167, 44);
+ }
+ .fa-magnifying-glass{
+  color: rgb(248, 248, 248);
+  background-color: rgb(187, 98, 25);
+  border-radius: 60%;
+  width: 40px;
+  height: 40px;
+  padding-left: 10px;
+  padding-top: 10px;
+  font-size: 30px;
+  margin-left: 800px;
+  margin-top: -130px;
+ }
+ .book{
+  background-color: rgb(19, 19, 117);
+  width: 180px;
+  height: 80px;
+  margin-left: 890px;
+  margin-top: -80px;
+ }
+ .bookt{
+text-align: center;
+padding-top: 24px;
+font-size: 18px;
+font-weight: bold;
+color: white;
+ }
+ .imgdiv{
+  width: 350px;
+  height: 150px;
+  background-color: rgb(255, 255, 255);
+  margin-left: -180px;
+  margin-top: -136px;
+  border-radius: 20px;
+ }
+ img{
+  padding-left: 60px;
+  padding-top: 40px;
+ }
+ .days{
+
+width: 700px;
+margin-left: 400px;
+margin-top: 130px;
+font-size: 50px;
+color: rgb(231, 204, 47);
+ }
+ .world{
+  width: 700px;
+margin-left: 400px;
+margin-top: 10px;
+font-size: 60px;
+font-weight: bold;
+color: rgb(255, 255, 255);
+ }
+ .fa-location-pin{
+  margin-left: 410px;
+  font-size: 26px;
+  color: yellow;
+ }
+ .cal{
+  margin-left: 440px;
+  margin-top: -20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: wheat;
+ }
+ .fa-calendar{
+ 
+position: absolute;
+left:690px;
+bottom: 227px;
+
+  font-size: 26px;
+  color: yellow;
+ }
+ .calendar{
+  margin-left: 740px;
+  margin-top: -43px;
+  font-size: 19px;
+  font-weight: bold;
+  color: wheat;
+ }
